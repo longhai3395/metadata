@@ -30,7 +30,7 @@
         <compiler.level>1.8</compiler.level>
 
         <!--log4j2-->
-        <log4j2.api.version>2.5</log4j2.api.version>
+        <log4j2.api.version>2.13.3</log4j2.api.version>
 
         <!--test-->
         <junit.version>4.12</junit.version>
